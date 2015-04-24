@@ -1,3 +1,1 @@
-Bug #1:
-
-Bug #2:
+Bug #1: my header isn't working
