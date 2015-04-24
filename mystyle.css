@@ -1,0 +1,106 @@
+body {
+  display: block;
+  margin: 100px;
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  margin-left: 100px;
+}
+a:-webkit-any-link {
+  color: #000000;
+  text-decoration: underline;
+  cursor: auto;
+}
+
+
+#p1bd {
+  background: url("https://www.dropbox.com/s/c76v9iummwosgle/IC%20wall.jpg?raw=1")no-repeat fixed;
+  background-size: 100% 100%;
+}
+#welcome {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  text-shadow: 2px 2px #909090;
+  color:white;
+  text-align:center;
+  padding:3px;
+}
+.button {
+  display:block;
+  height:25px;
+  width:120px;
+  background:#ffffff;
+  border:1px solid #000000;
+  color:#000000;
+  text-align:center;
+  border-radius: 50px;
+}
+a.button {
+  text-decoration:none;
+}
+#pgs {
+  float:left;
+}
+#j2p1 {
+  text-align:center;
+  padding:5px;
+}
+p {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  color: white
+}
+#aboot {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  color: white
+}
+#specificaboots {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  color: white
+}
+#randomtidbits {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  color: white
+}
+#hobbies {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  color: white
+}
+#p1l1 {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  color: white
+}
+
+#p2bd {
+  background: url("https://www.dropbox.com/s/mhy8t9rdumgoqxp/logo.jpg?raw=1") no-repeat fixed right top;
+  margin-right: 200px;
+}
+  #whereivebeen {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    color: rgb(207, 121, 8);
+    text-align:center;
+  }
+  #notsureipossessthesight {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    color: rgb(207, 121, 8);
+  }
+  #p2p1 {
+    color: rgb(53, 103, 153)
+  }
+  #p2p2 {
+    color: rgb(53, 103, 153)
+  }
+  #p2p3 {
+    color: rgb(53, 103, 153)
+  }
+  #p2p4 {
+    color: rgb(53, 103, 153)
+  }
+  #p2p5 {
+    color: rgb(53, 103, 153)
+  }
+  #p2p6 {
+    color: rgb(53, 103, 153)
+  }
+  #p2p7 {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    color: rgb(53, 103, 153)
+  }
